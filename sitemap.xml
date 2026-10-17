@@ -164,5 +164,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
+
+<url>
+    <loc>https://lens-narrative.github.io/gallery-event/beiersdorf-supply-chain-day-trip-to-bandung-2026.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
     
 </urlset>
