@@ -199,5 +199,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
+
+<url>
+    <loc>https://lens-narrative.github.io/gallery-event/reid-expo-real-estate-interior-design-bandung-2026.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
     
 </urlset>
